@@ -1,0 +1,13 @@
+{
+  "name": "backspace",
+  "author": "osyoyu",
+  "version": "1.0.0",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["backspace.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "manifest_version": 2
+}
