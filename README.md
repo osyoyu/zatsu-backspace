@@ -2,4 +2,4 @@ zatsu-backspace
 ===============
 
 # IMPORTANT NOTICE
-This extension causes every Backspace input to call `history.back()`, __EVEN IF YOU ARE TYPING IN A `<input>`!!!!!!!!!!!!!!__
+__BE AWARE WHEN YOU HIT BACKSPACE, CHROME WILL GO BACK EVEN IF YOU ARE WRITING SOME IMPORTANT TEXT IN `<input>`!!!!!!__
